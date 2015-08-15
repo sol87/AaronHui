@@ -8,5 +8,6 @@ http://sol87.github.io/rss.xml
 http://sol87.github.io/sitemap.txt
 http://sol87.github.io/tags.html
 
+http://sol87.github.io/2015/08/15/new-post2
 http://sol87.github.io/2015/08/15/hibabe
 http://sol87.github.io/lessons/2015/08/15/Aaron-helloPosts
