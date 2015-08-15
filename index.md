@@ -1,36 +1,17 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 主页测试
+tagline: 志高心正，知行合一
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+# 欢迎来到我的博客
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+现在是我第一次测试jekyll生成博客并发布到Github的功能。
+希望我可以成功。
 
-## Update Author Attributes
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+# 文章列表
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +19,9 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## 如果我成功了
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+那么我会尽量分享一些内容上来的。
+我是一名CG公司的TD，工作中，我主要使用Python、Qt进行一系列小型桌面软件和软件插件开发。因为工作需要和个人兴趣，我也一直在研究和学习图形软件开发、CG项目管理等方面的知识。
 
-
+##我说完了，愿我成功吧！
