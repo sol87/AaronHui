@@ -4,13 +4,22 @@
  <title>Aaron&#39;s Blog</title>
  <link href="http://sol87.github.io/atom.xml" rel="self"/>
  <link href="http://sol87.github.io"/>
- <updated>2015-08-15T21:34:30+08:00</updated>
+ <updated>2015-08-15T21:35:47+08:00</updated>
  <id>http://sol87.github.io</id>
  <author>
    <name>Aaron Hui</name>
    <email>guoliangxu1987@163.com</email>
  </author>
 
+ 
+ <entry>
+   <title>HiBabe</title>
+   <link href="http://sol87.github.io/2015/08/15/hibabe"/>
+   <updated>2015-08-15T00:00:00+08:00</updated>
+   <id>http://sol87.github.io/2015/08/15/hibabe</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Aaron Helloposts</title>
