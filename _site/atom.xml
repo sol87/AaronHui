@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Aaron&#39;s Blog</title>
+ <link href="http://sol87.github.io/atom.xml" rel="self"/>
+ <link href="http://sol87.github.io"/>
+ <updated>2015-08-15T21:14:46+08:00</updated>
+ <id>http://sol87.github.io</id>
+ <author>
+   <name>Aaron Hui</name>
+   <email>guoliangxu1987@163.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Aaron Helloposts</title>
+   <link href="http://sol87.github.io/lessons/2015/08/15/Aaron-helloPosts"/>
+   <updated>2015-08-15T00:00:00+08:00</updated>
+   <id>http://sol87.github.io/lessons/2015/08/15/Aaron-helloPosts</id>
+   <content type="html">
+&lt;h1 id=&quot;section&quot;&gt;标题&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;列表&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;引用&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;
+&lt;strong&gt;加粗&lt;/strong&gt;
+&lt;strong&gt;&lt;em&gt;斜粗&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
