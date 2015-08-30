@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Aaron's Blog
 tagline:          'Aaron Blog'
 description:
-url:              http://sol87.github.io/AaronHui
-baseurl:          /
+url:              https://sol87.github.io/AaronHui
+baseurl:          https://sol87.github.io/AaronHui
 
 author:
   name:           'Aaron Hui'
