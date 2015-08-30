@@ -2,133 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f94dda-fca8-4b86-b3f8-f9a9536fc9b5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/public/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/us.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/us.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2012-02-06-whats-jekyll.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2012-02-07-example-content.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2013-12-28-introducing-hyde.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Articles.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoodBlogs.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/_author-bio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/public/css/hyde.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/hyde.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2012/02/06/whats-jekyll/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2012/02/07/example-content/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2013/12/28/introducing-hyde/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/Articles/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/GoodBlogs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/public/css/poole.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/poole.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/public/css/syntax.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/syntax.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/History.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/jekyll-introduction-draft.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/gauges" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/getclicky" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/google" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/google-universal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/mixpanel" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/piwik" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/categories_list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/disqus" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/duoshuo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/facebook" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/intensedebate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/livefyre" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/feedburner" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/file_exists" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/gist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/is_production" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/liquid_raw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/pages_list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/posts_collate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/setup" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/sharing" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/sort_collection" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/tags_list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/bootstrap-3/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/bootstrap-3/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/bootstrap-3/settings.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/twitter/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/twitter/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/twitter/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/twitter/settings.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_plugins/debug.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-08-15-hibabe.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-08-15-new-post2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/core-samples/2015-8-15-Aaron-helloPosts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2015/08/15/hibabe/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2015/08/15/new-post2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/History.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/bootstrap-3/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lessons/2015/08/15/Aaron-helloPosts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/pages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/rake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/sitemap.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/bootstrap/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AaronHui.iws" />
@@ -154,7 +28,7 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="41" column="159" selection-start-line="41" selection-start-column="159" selection-end-line="41" selection-end-column="159" />
               <folding />
             </state>
@@ -197,7 +71,7 @@
       <file leaf-file-name="Articles.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Articles.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.3333335">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
@@ -207,7 +81,7 @@
       <file leaf-file-name="GoodBlogs.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoodBlogs.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38340807">
+            <state vertical-scroll-proportion="0.342">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
@@ -217,7 +91,7 @@
       <file leaf-file-name="_author-bio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/_author-bio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3571428">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
               <folding />
             </state>
@@ -274,6 +148,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
     <option name="y" value="23" />
     <option name="width" value="1436" />
     <option name="height" value="877" />
@@ -301,6 +176,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -364,7 +240,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -629,11 +504,17 @@
       <option name="project" value="LOCAL" />
       <updated>1439699924808</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change theme">
+      <created>1439794534335</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1439794534335</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1436" height="877" extended-state="6" />
+    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32909784" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -641,21 +522,21 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13414635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13558106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278272" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32909784" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32909784" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -668,13 +549,81 @@
     <MESSAGE value="new test" />
     <MESSAGE value="change production_url" />
     <MESSAGE value="change BASE_PATH" />
-    <option name="LAST_COMMIT_MESSAGE" value="change BASE_PATH" />
+    <MESSAGE value="change theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="change theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="159" selection-start-line="41" selection-start-column="159" selection-end-line="41" selection-end-column="159" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-28-introducing-hyde.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Articles.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoodBlogs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_author-bio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -730,7 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -886,13 +832,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_author-bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3571428">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
           <folding />
         </state>
@@ -902,13 +847,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.821428">
           <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Articles.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.3333335">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
@@ -932,7 +876,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoodBlogs.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38340807">
+        <state vertical-scroll-proportion="0.342">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
